@@ -1,0 +1,4 @@
+libJava.footearth.org
+=====================
+
+myJavaLib
